@@ -43,9 +43,9 @@ Open source projects actively maintained by the [Web3 Philippines®](https://web
 
 ## 📝 Author <!-- omit from toc -->
 
-This project is developed and maintained by [Web3 Philippines®](https://web3philippines.org) and [Open Source Software Philippines](https://ossph.org) with the help of awesome [contributors](https://github.com/web3philippines/builders-list/graphs/contributors).
+This project is developed and maintained by [Web3 Philippines®](https://web3philippines.org) and [Open Source Software Philippines](https://ossph.org) with the help of awesome [contributors](https://github.com/web3philippines/web3-builders-list/graphs/contributors).
 
-[![contributors](https://contrib.rocks/image?repo=web3philippines/builders-list)](https://github.com/web3philippines/builders-list/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=web3philippines/web3-builders-list)](https://github.com/web3philippines/web3-builders-list/graphs/contributors)
 
 ---
 
