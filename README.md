@@ -26,6 +26,7 @@ Open source projects actively maintained by the [Web3 Philippines®](https://web
 
 - **[IPFS Support Extension](https://github.com/warengonzaga/ipfs-support-extension)** - Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine.
 - **[Arweave Support Extension](https://github.com/warengonzaga/arweave-support-extension)** - Adding standalone Arweave native URL support for chromium based browsers without installing Arweave in your machine.
+- **[XploreScan](https://github.com/warengonzaga/xplorescan)** - An all-in-one command-line tool for blockchain explorers, simplifying searches for addresses, transaction hashes, and more without the need to remember multiple explorer URLs for different chains.
 - **[thirdweb](https://thirdweb.com)** - The full stack web3 development platform. Onboard users with wallets, build & deploy smart contracts, accept fiat with payments, and scale apps with infrastructure.
 
 ## 🎓 Tutorials
