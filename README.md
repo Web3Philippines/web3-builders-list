@@ -28,8 +28,20 @@ Open source projects actively maintained by the [Web3 Philippines®](https://web
 - **[Arweave Support Extension](https://github.com/warengonzaga/arweave-support-extension)** - Adding standalone Arweave native URL support for chromium based browsers without installing Arweave in your machine.
 - **[XploreScan](https://github.com/warengonzaga/xplorescan)** - An all-in-one command-line tool for blockchain explorers, simplifying searches for addresses, transaction hashes, and more without the need to remember multiple explorer URLs for different chains.
 - **[thirdweb](https://thirdweb.com)** - The full stack web3 development platform. Onboard users with wallets, build & deploy smart contracts, accept fiat with payments, and scale apps with infrastructure.
+- **[hardhat](https://hardhat.org/)** - An Ethereum development environment for professionals.
+- **[viem](https://github.com/wevm/viem)** - Build reliable apps & libraries with lightweight, composable, and type-safe modules that interface with Ethereum.
+- **[rivet](https://github.com/paradigmxyz/rivet)** - A developer Wallet & DevTools for Anvil.
+- **[wagmi](https://github.com/wagmi-dev/wagmi)** - A developer library with over 20 hooks for working with wallets, contracts, transactions, signing, and more.
+- **[HashLips](https://github.com/HashLips)** - A tool used to create multiple different instances of artworks based on provided layers.
+- **[foundry](https://github.com/foundry-rs/foundry)** - A blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
 ## 🎓 Tutorials
+
+- **[LearnWeb3DAO](https://learnweb3.io/)** - A free platform to take you from zero to hero in Web3.
+- **[Cyfrin Updraft](https://updraft.cyfrin.io/)** - A platform for teaching the next generation of smart contract developers.
+- **[CryptoZombies](https://cryptozombies.io/)** - An interactive solidity tutorial that will help you learn blockchain programming by building your own fun game with zombies.
+- **[Solana Cookbook](https://solanacookbook.com/)** - A developer resource that provides the essential concepts and references for building applications on Solana.
+- **[SolDev](https://www.soldev.app/course)** - A place for Web Developers looking to learn Web3 development.
 
 ### 📺 Videos
 
